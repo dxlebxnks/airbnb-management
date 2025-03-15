@@ -2,6 +2,8 @@
 
 This inventory log helps track household items to ensure the property is well-stocked for guests.
 
+- **[Inventory Tracking](https://docs.google.com/spreadsheets/d/196DehABsXQQOsd4wHVkstZXzIGg1CQH0EMqDD0kMt9k/edit?gid=722429952#gid=722429952)**
+
 ---
 
 ## 📌 **Log Format**
@@ -30,3 +32,5 @@ This inventory log helps track household items to ensure the property is well-st
 - **Quarterly:** Review inventory for seasonal updates (blankets, fans, etc.).
 
 Keeping this list updated ensures a smooth guest experience and prevents last-minute shortages! ✅
+
+- **[Inventory Tracking](https://docs.google.com/spreadsheets/d/196DehABsXQQOsd4wHVkstZXzIGg1CQH0EMqDD0kMt9k/edit?gid=722429952#gid=722429952)**
