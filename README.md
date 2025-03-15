@@ -20,7 +20,7 @@ This repository is a private collection of documents, templates, and information
 ### **3️⃣ Financials & Pricing**  
 - 📦 **[Inventory](inventory.md)** - A detailed list of all items available in the Airbnb property, including furniture, appliances, kitchenware, and essentials. This helps track supplies and ensure everything is in place  for guests.
 - 💰 **Expense Tracking** – Spreadsheet to track costs (utilities, maintenance, etc.).  
-- 📊 **Revenue Reports** – Monthly income breakdown.  
+- 📊 **[Monthly Revenue Report](https://docs.google.com/spreadsheets/d/196DehABsXQQOsd4wHVkstZXzIGg1CQH0EMqDD0kMt9k/edit?gid=1977979883#gid=1977979883)** – Monthly income breakdown.  
 - 🏷️ **Pricing Strategy** – Seasonal and competitor-based pricing adjustments.  
 
 ### **4️⃣ Legal & Compliance**  
