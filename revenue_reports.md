@@ -1,5 +1,5 @@
 # 📊 Monthly Revenue Report - Airbnb Management
-
+[📂 View Monthly Revenue Report](https://docs.google.com/spreadsheets/d/196DehABsXQQOsd4wHVkstZXzIGg1CQH0EMqDD0kMt9k/edit?gid=1977979883#gid=1977979883)
 ## 📅 Month: [Enter Month]
 ## 📍 Property Address: [Enter Address]
 
